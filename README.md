@@ -21,7 +21,7 @@ Whether you're preparing a presentation, printing handouts, compiling client rep
 - 👩‍🏫 教師、講師（教學簡報重整）
 - 📝 編輯、排版工作者（快速擷取內容）
 - 🧑‍💻 上班族、行政人員（彙整會議資料、印製頁面）
-- 🎨 內容創作者（挑選素材組合新檔）
+- 🎨 內容創作者（挑選素材）
 - 🧠 任意需要重組頁面的人
 
 ---
@@ -31,8 +31,8 @@ Whether you're preparing a presentation, printing handouts, compiling client rep
 - 🖼 **Visual Thumbnails**｜直覺的縮圖預覽  
 - ✅ **Click-to-Select Pages**｜輕鬆點選頁面  
 - 📄 **Export as PDF / PPT / Word**｜匯出為 PDF、PPT 或 Word  
-- 🖨️ **Preview & Print Support**｜列印前預覽，讓使用者自行控制橫向/直向  
-- 🧠 **Clean Interface with Emoji Buttons**｜乾淨介面＋親切小圖示  
+- 🖨️ **Preview & Print Support**｜列印前預覽 
+- 🧠 **Clean Interface**｜乾淨介面
 - 🔒 **No internet required**｜本機操作，安全又快速
 
 ---
