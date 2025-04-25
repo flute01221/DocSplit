@@ -84,6 +84,6 @@ It showcases practical tool-making skills with real-world usage in mind.
 ---
 ## 📬 Contact｜聯絡方式
    正在尋找理念契合的職務或專案內容。
-   有出版、數位內容管理或數位工具、AI工具整合需求的團隊，若對本工具有任何相關意見、或者對此類工具感興趣，
-   想進一步合作，請聯繫我：elaboratec2@gmail.com
+   若有出版、數位內容管理或數位工具、AI工具整合需求，對此類工具感興趣或者有一些日常小問題找不到適合的工具，或者對本工具有任何相關意見，
+   想進一步洽詢、意見交流或合作，請聯繫我：elaboratec2@gmail.com
 ---
