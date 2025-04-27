@@ -87,3 +87,14 @@ It showcases practical tool-making skills with real-world usage in mind.
    若有出版、數位內容管理或數位工具、AI工具整合需求，對此類工具感興趣或者有一些日常小問題找不到適合的工具，或者對本工具有任何相關意見，
    想進一步洽詢、意見交流或合作，請聯繫我：elaboratec2@gmail.com
 ---
+## ☕ Support｜支持
+
+If you find StudioLumiVel's tools helpful, you can support this personal studio here:  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20the%20Creator-yellow?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/studiolumivel)
+Feel free to buy me a coffee ☕ and send a little positive encouragement — it keeps me inspired to create and dream.
+Every bit of support shines a quiet light. Thank you! 🌿
+
+如果你喜歡 StudioLumiVel 的作品，或覺得這些小工具對你的工作有所幫助，
+歡迎請我喝杯咖啡☕，給我一點正面鼓勵，讓我有持續發想的動力。
+每一份鼓勵，都是溫柔發光的力量。感謝你！🌿
+
