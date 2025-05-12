@@ -7,7 +7,8 @@
 ## 📥 Introduction｜檔案下載
 🔹 DocSplit - Free Version (Free)
 ☕️ DocSplit - Coffee Edition (Supporter Only)
-[🔹 DocSplit - EXE]([https://example.com/docsplit-free](https://e.pcloud.link/publink/show?code=XZBotqZRxE49J8VM2m1nGM14F87fHRQoEtk)
+[🔹 DocSplit - EXE](https://e.pcloud.link/publink/show?code=XZBotqZRxE49J8VM2m1nGM14F87fHRQoEtk)
+
 
 ✉️ Free version supports PPT only; Coffee Edition unlocks PDF & Word export.
 
